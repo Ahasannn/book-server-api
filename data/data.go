@@ -1,6 +1,6 @@
 package data
 
-import "GO_PROJECT/model"
+import "github.com/Ahasannn/book-server-api/model"
 
 var Books = []model.Book{
 	{

@@ -1,4 +1,4 @@
-module GO_PROJECT
+module github.com/Ahasannn/book-server-api
 
 go 1.19
 

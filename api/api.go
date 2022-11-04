@@ -1,9 +1,9 @@
 package api
 
 import (
-	"GO_PROJECT/auth"
-	"GO_PROJECT/data"
-	"GO_PROJECT/model"
+	"github.com/Ahasannn/book-server-api/auth"
+	"github.com/Ahasannn/book-server-api/data"
+	"github.com/Ahasannn/book-server-api/model"
 	"encoding/json"
 	"log"
 	"math/rand"

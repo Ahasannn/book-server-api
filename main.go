@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GO_PROJECT/api"
+	"github.com/Ahasannn/book-server-api/api"
 )
 
 func main() {
