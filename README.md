@@ -33,4 +33,3 @@ Run the server using the commands-
     
 <hr/>
 
-## Data model
