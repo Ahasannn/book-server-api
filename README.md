@@ -6,7 +6,7 @@ It is a RESTful API using [Go](https://github.com/golang), [gorilla/mux](https:/
 
 ## Brief Description
 
-I have built a fully-fledged REST API with Go that exposes GET, POST, DELETE and PUT endpoints which allows to perform the full range of CRUD operations. A handler function accepts http response and request in json format. Then, the request is decoded and written to response according to the called function. This handler function is wrapped by the authentication middleware to perform the security check.
+<p>I have built a fully-fledged REST API with Go that exposes GET, POST, DELETE and PUT endpoints which allows to perform the full range of CRUD operations. A handler function accepts http response and request in json format. Then, the request is decoded and written to response according to the called function. This handler function is wrapped by the authentication middleware to perform the security check.</p>
 
 <hr/>
 
