@@ -47,7 +47,7 @@ It is a RESTful API using [Go](https://github.com/golang), [gorilla/mux](https:/
 <hr/>
 
 ## Installation 
-* go install github.com/Ahasannn/book-server-api@b687963
+* go install github.com/Ahasannn/book-library@latest
 
 <hr/>
 
@@ -66,8 +66,8 @@ Testing the API endpoints
 
 Server Run 
 
-    go build -o bin/book-server-api .
-    ./bin/book-server-api
+    go build -o bin/book-library .
+    ./bin/book-library
 
 <hr/>
 
