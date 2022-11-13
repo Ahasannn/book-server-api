@@ -1,4 +1,4 @@
-# Book Server API 
+# Book Library RESTful API Server 
 
 It is a RESTful API using [Go](https://github.com/golang), [gorilla/mux](https://github.com/gorilla/mux), [Basic Authentication](https://learningprogramming.net/golang/golang-restful-web-api/basic-authentication-in-golang-restful-web-api/), [JWT Authentication](https://github.com/dgrijalva/jwt-go).
 
