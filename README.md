@@ -1,4 +1,4 @@
-# Book Library RESTful API Server 
+# Book Sever
 
 It is a RESTful API using [Go](https://github.com/golang), [gorilla/mux](https://github.com/gorilla/mux), [Basic Authentication](https://learningprogramming.net/golang/golang-restful-web-api/basic-authentication-in-golang-restful-web-api/), [JWT Authentication](https://github.com/dgrijalva/jwt-go).
 
@@ -47,7 +47,7 @@ It is a RESTful API using [Go](https://github.com/golang), [gorilla/mux](https:/
 <hr/>
 
 ## Installation 
-* go install github.com/Ahasannn/book-library@latest
+* go install github.com/Ahasannn/book-server-api@b687963
 
 <hr/>
 
@@ -66,8 +66,8 @@ Testing the API endpoints
 
 Server Run 
 
-    go build -o bin/book-library .
-    ./bin/book-library
+    go build -o bin/book-server-api .
+    ./bin/book-server
 
 <hr/>
 
